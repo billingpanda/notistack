@@ -66,3 +66,4 @@ stats.json
 # Cruft
 .DS_Store
 npm-debug.log
+.npmrc
